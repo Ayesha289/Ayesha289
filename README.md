@@ -11,9 +11,11 @@
 - 📫 How to reach me **ayeshamulani495@gmail.com**
 
 <h3 align="left">Socials</h3>
+
 [![Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ayesha-mulani-173b6b207/)
 
 <h3 align="left">Front End Tech Stack</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=html)](https://www.w3.org/html/)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3.org/css/)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -33,6 +35,7 @@
 [![My Skills](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/)
 
 <h3 align="left">Languages and libraries</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com/)
 [![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/en/)
 [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)

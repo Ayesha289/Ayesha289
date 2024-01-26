@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning more about **AI and its applications**
 - 👁️ I'm looking to contribute to **Open-source software**
 
-- 💬 Ask me about **Python and MERN stack-related technologie**
+- 💬 Ask me about **Python and MERN stack-related technologies**
 
 - 📫 How to reach me **ayeshamulani495@gmail.com**
 
@@ -51,7 +51,7 @@
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 [![My Skills](https://skillicons.dev/icons?i=netlify)](https://www.netlify.com/)
 
-# 📊 GitHub Stats:
+<h3 align="left">📊 GitHub Stats</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=Ayesha289&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ayesha289&theme=dark&hide_border=false)<br/>

@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayesha Mulani!</h1>
 <h3 align="center">A Self-Taught Passionate Web Developer From India</h3>
 
-- 🔭 I’m currently working on **Python development**
-
-- 🌱 I’m currently learning more about **AI and its applications**
+- 🌱 I’m currently learning about **Java Full Stack Development**
 - 👁️ I'm looking to contribute to **Open-source software**
 
 - 💬 Ask me about **Python and MERN stack-related technologies**
@@ -29,10 +27,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
 [![My Skills](https://skillicons.dev/icons?i=express)](https://expressjs.com)
+[![My Skills](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/)
+[![My Skills](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
+[![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
-[![My Skills](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/)
+[![My Skills](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
 
 <h3 align="left">Languages and libraries</h3>
 

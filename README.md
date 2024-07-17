@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayesha Mulani!</h1>
-<h3 align="center">A Self-Taught Passionate Web Developer From India</h3>
+<h3 align="center">A Passionate Web Developer From India</h3>
 
-- 🌱 I’m currently learning about **Java Full Stack Development**
+- 🌱 I’m currently learning about **AI and it's applications**
 - 👁️ I'm looking to contribute to **Open-source software**
 
 - 💬 Ask me about **Python and MERN stack-related technologies**

@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayesha Mulani!</h1>
 <h3 align="center">A Passionate Web Developer From India</h3>
-![](https://komarev.com/ghpvc/?username=Ayesha289&color=blueviolet)
 
 - 🌱 I’m currently learning about **AI and it's applications**
 - 👁️ I'm looking to contribute to **Open-source software**
@@ -52,8 +51,8 @@
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 [![My Skills](https://skillicons.dev/icons?i=netlify)](https://www.netlify.com/)
 
-<h3 align="left">📊 GitHub Stats</h3>
+<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=Ayesha289&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha289&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=Ayesha289&theme=dark&hide_border=false&include_all_commits=false&count_private=false" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha289&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="right"/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ayesha289&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

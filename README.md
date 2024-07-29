@@ -53,6 +53,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ayesha289&theme=dark&hide_border=false&include_all_commits=false&count_private=false" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha289&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="right"/>
-<br/>
+![](https://github-readme-stats.vercel.app/api?username=Ayesha289&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ayesha289&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha289&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ayesha289&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

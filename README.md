@@ -56,4 +56,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Ayesha289&theme=dark&hide_border=false&include_all_commits=false&count_private=false" align="left"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha289&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="right"/>
 <br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ayesha289&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

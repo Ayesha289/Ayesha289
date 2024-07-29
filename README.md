@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayesha Mulani!</h1>
 <h3 align="center">A Passionate Web Developer From India</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ayesha289&label=Profile%20views&color=0e75b6&style=for-the-badge&color=fe428e" alt="Ayesha289" /> </p>
 
 - 🌱 I’m currently learning about **AI and it's applications**
 - 👁️ I'm looking to contribute to **Open-source software**
@@ -56,3 +57,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=Ayesha289&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ayesha289&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha289&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ayesha289&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

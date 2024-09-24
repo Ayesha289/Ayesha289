@@ -18,10 +18,13 @@
 [![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3.org/css/)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![My Skills](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 [![My Skills](https://skillicons.dev/icons?i=materialui)](https://mui.com/material-ui/)
 [![My Skills](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+
 
 <h3 align="left">Back End Tech Stack</h3>
 
@@ -33,6 +36,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![My Skills](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
+[![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 
 <h3 align="left">Languages and libraries</h3>
 
@@ -46,6 +50,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![My Skills](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
 [![My Skills](https://skillicons.dev/icons?i=powershell)](https://docs.microsoft.com/en-us/powershell/)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
